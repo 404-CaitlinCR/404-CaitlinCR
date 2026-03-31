@@ -25,4 +25,8 @@
 
 ### **Tools:** <br>
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+## 📄 Publications & Press
+- [Improving prediction of ADR in eldery patients using machine learning algorithms](https://underline.io/lecture/120448-improving-prediction-of-adr-in-elderly-patients-using-machine-learning-algorithms?posterExpanded=true) — *STEM fellowship, 2025*
+
