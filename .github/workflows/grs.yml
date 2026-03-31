@@ -15,7 +15,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=404-CaitlinCR&show_icons=true
+          options: username=404-CaitlinCR&show_icons=true&theme=gruvbox          
           path: stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
