@@ -34,6 +34,7 @@
   ![404-CaitlinCR's GitHub stats](./stats.svg)
   
 </div> --->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=404-CaitlinCR&border=4B4441&ring=8C945C&stroke=4B4441&fire=D8A65C&currStreakNum=D4BE9A&sideNums=D8A65C&currStreakLabel=D4BE9A&sideLabels=D4BE9A&dates=D4BE9A&background=32302F&hide_total_contributions=true)](https://git.io/streak-stats)
 
 ## 📄 Publications & Press
 - [Improving prediction of ADR in eldery patients using machine learning algorithms](https://underline.io/lecture/120448-improving-prediction-of-adr-in-elderly-patients-using-machine-learning-algorithms?posterExpanded=true) — *STEM fellowship, 2025*
