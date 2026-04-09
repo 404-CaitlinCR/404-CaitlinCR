@@ -28,13 +28,13 @@
 ### Tools & OS: <br>
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<!--- ## Stats:
-<div align="center">
+ ## Stats:
+<!---<div align="center">
 
   ![404-CaitlinCR's GitHub stats](./stats.svg)
   
 </div> --->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=404-CaitlinCR&border=4B4441&ring=8C945C&stroke=4B4441&fire=D8A65C&currStreakNum=D4BE9A&sideNums=D8A65C&currStreakLabel=D4BE9A&sideLabels=D4BE9A&dates=D4BE9A&background=32302F&hide_total_contributions=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=404-CaitlinCR&border=4B4441&ring=8C945C&stroke=4B4441&fire=D8A65C&currStreakNum=D4BE9A&sideNums=D8A65C&currStreakLabel=D4BE9A&sideLabels=D4BE9A&dates=D4BE9A&background=32302F)](https://git.io/streak-stats)
 
 ## 📄 Publications & Press
 - [Improving prediction of ADR in eldery patients using machine learning algorithms](https://underline.io/lecture/120448-improving-prediction-of-adr-in-elderly-patients-using-machine-learning-algorithms?posterExpanded=true) — *STEM fellowship, 2025*
